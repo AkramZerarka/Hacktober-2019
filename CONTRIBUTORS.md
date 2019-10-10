@@ -11,3 +11,4 @@
 #### [BendabizAdam](https://github.com/BendabizAdam)
 #### [DavidInojosa](https://github.com/DavidInojosa)
 #### [Prem-Gupta](https://github.com/premgwl)
+#### [AkramZerarka](https://github.com/AkramZerarka)
